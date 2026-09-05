@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there!
 
-<!--
-**YOS0220/YOS0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm YOS0220, a Computer Science enthusiast interested in different areas of computer science, especially Artificial Intelligence.
 
-Here are some ideas to get you started:
+Interests:
+Artificial Intelligence
+Python
+Software Engineering
+Algorithms
+Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Projects:
+I'm currently working on several projects and will be publishing them soon.
