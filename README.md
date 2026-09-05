@@ -1,14 +1,13 @@
-Hi there!
+# Hi there!
 
 I'm YOS0220, a Computer Science enthusiast interested in different areas of computer science, especially Artificial Intelligence.
 
-Interests:
-Artificial Intelligence
-Python
-Software Engineering
-Algorithms
-Problem Solving
+## Interests:
+- Artificial Intelligence
+- Python
+- Software Engineering
+- Algorithms
+- Problem Solving
 
-
-Projects:
+## Projects:
 I'm currently working on several projects and will be publishing them soon.
